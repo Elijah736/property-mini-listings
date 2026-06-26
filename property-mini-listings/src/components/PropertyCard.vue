@@ -73,7 +73,7 @@ button {
   margin-top: 10px;
   padding: 9px;
   cursor: pointer;
-  background-color: #0f5ba6;
+  background-color: crimson;
   color: white;
   font-size: 1rem;
   text-align: center;
